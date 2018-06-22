@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CryptoCurrency</string>
+    <string name="textview_moedas_carregadas">Total de moedas carregadas</string>
+</resources>

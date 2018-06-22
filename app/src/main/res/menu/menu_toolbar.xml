@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/item_refresh"
+        android:icon="@drawable/ic_refresh"
+        android:title="Atualizar"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/item_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="Busca"
+        app:showAsAction="always">
+
+    </item>
+
+
+    <item
+        android:id="@+id/item_about"
+        android:icon="@drawable/ic_action_gear"
+        android:orderInCategory="101"
+        android:title="About"
+        app:showAsAction="withText">
+
+    </item>
+
+
+    <item android:title="Ordenar">
+        <menu>
+            <item
+                android:id="@+id/item_asc"
+                android:contentDescription="Ordenar de forma crescente"
+                android:icon="@drawable/ic_action_sort_2"
+                android:orderInCategory="100"
+                android:title="Ordem crescente"
+                app:showAsAction="withText">
+
+            </item>
+            <item
+                android:id="@+id/item_des"
+                android:contentDescription="Ordenar de forma crescente"
+                android:icon="@drawable/ic_action_sort_2_"
+                android:orderInCategory="100"
+                android:title="Ordem decrescente"
+                app:showAsAction="withText">
+
+            </item>
+        </menu>
+    </item>
+
+</menu>
