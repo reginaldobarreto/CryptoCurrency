@@ -15,7 +15,17 @@
 <p><li>EventBus</li></p>
 
 <h4>Screeshots</h4>
-<a href="https://github.com/reginaldobarreto/CryptoCurrency/blob/master/screenshot2.png"></a>
+
+<table style="width:100%">
+  <tr>
+    <td><img src="https://github.com/reginaldobarreto/CryptoCurrency/blob/master/screenshot2.png" width="200" height="350"></td>
+    <td><img src="https://github.com/reginaldobarreto/CryptoCurrency/blob/master/screenshot4.png" width="200" height="350"></td> 
+    <td><img src="https://github.com/reginaldobarreto/CryptoCurrency/blob/master/screenshot5.png" width="200" height="350"></td>
+  </tr>
+</table>
+
+
+
 
 
 <h6 style="color:blue">Curso: Android BootCamp</h6>
